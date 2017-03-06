@@ -1,0 +1,64 @@
+.navbar-default{
+    background-color: #35302F; 
+    height: 70px;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-family: Comfortaa;
+    margin-top: 20px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-family: Comfortaa
+}
+
+form{
+    font-family: Comfortaa;
+}
+
+.a{
+    font-family: Comfortaa;
+    color: dimgray;
+    font-weight: 900;
+    
+}
+
+.navbar-right {
+    margin-top: 20px;
+}
+
+#deco{
+  color: red;
+  text-align: right;
+  font-family: Comfortaa;    
+}
+
+.vid{
+    display: inline-block;
+}
+
+.fontawesome{
+    font-size: 100px;
+    
+}
+
+.accroche{
+    font-size: 30px;
+    font-family: Comfortaa; 
+}
+
+.last{
+    font-size: 20px;
+    font-family: Comfortaa; 
+    font-weight: 900;
+}
+
+.menuvid{
+    margin-top: 200px;
+}
+
+#add{
+    color: white;
+}
